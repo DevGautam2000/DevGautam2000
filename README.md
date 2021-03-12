@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam!
+<marquee> - 👋 Hi, I’m Gautam! </marquee>
 - 👀 I’m interested in anything that is interesting.
 - 🌱 I’m currently learning a lot of management.
 - 📫 How to reach me?But wait, why do you want to reach me? Anyway  mail: devgautam1231@gmail.com. 
