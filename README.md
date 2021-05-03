@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning a lot of management.
 - 📫 How to reach me? But wait, why do you want to reach me? Anyway  mail: devgautam1231@gmail.com
 
+
+<h5>Figma Handle:<a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
+
 <!---
 DevGautam2000/DevGautam2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
