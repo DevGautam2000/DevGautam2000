@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of management.
 - 📫 How to reach me? But wait, why do you want to reach me? Anyway  mail: devgautam1231@gmail.com
 
-<em>My Skillset</em>
+<h2><em>My Skillset</em></h2>
 <ul type="disc">
   <li>Web Development
   <ul>
