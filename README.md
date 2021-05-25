@@ -3,6 +3,31 @@
 - 🌱 I’m currently learning a lot of management.
 - 📫 How to reach me? But wait, why do you want to reach me? Anyway  mail: devgautam1231@gmail.com
 
+<em>My Skillset</em>
+<ul type="disc">
+  <li>Web Development
+  <ul>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>HTML,CSS,ES6</li>
+  </ul>
+  </li>
+  
+  <li>Web Scraping
+    <ul>
+      <li>bs4</li>
+      <li>scrapy</li>
+      <li>selenium</li>
+    </ul>
+  </li>
+  <li>Mobile Development
+  <ul>
+      <li>Kotlin/Java</li>
+      <li>React Native</li>
+      <li>Flutter</li>
+    </ul>
+  </li>
+  
 
 <h5>Figma Handle:<a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
 
