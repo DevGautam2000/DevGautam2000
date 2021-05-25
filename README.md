@@ -27,7 +27,7 @@
       <li>Flutter</li>
     </ul>
   </li>
-  
+  </ul>
 
 <h5>Figma Handle:<a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
 
