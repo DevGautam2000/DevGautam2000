@@ -1,5 +1,4 @@
 
-<link href="https://github.com/DevGautam2000/DevGautam2000/raw/main/style.css" rel="stylesheet"></link>
 <html>
 <body>
 
