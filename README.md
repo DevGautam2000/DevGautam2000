@@ -1,5 +1,11 @@
+
+#Portfolio
+
 <html>
-<link rel="stylesheet" href="https://github.com/DevGautam2000/DevGautam2000/raw/main/style.css" />
+<head>
+  <link rel="stylesheet" type="text/css" media="all" href="style.css" />
+</head>
+
 <body>
 
 <p class="info">
@@ -12,7 +18,7 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 </p>
 
 
-<h3 class="head">My Skillset</h3>
+<em class="head">My Skillset</em>
 <div class="container">
 
 <div class="card">
@@ -22,16 +28,16 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 <li>HTML,CSS,ES6</li>
 </div>
 <div class="card">
-<h4>Web Scraping</h4>
-<li>bs4</li>
-<li>Scrapy</li>
-<li>selenium</li>
+<h4>Web Development</h4>
+<li>React.js</li>
+<li>Next.js</li>
+<li>HTML,CSS,ES6</li>
 </div>
 <div class="card">
-<h4>Mobile Development</h4>
-<li>Native(Kotlin/Java)</li>
-<li>React Native</li>
-<li>Flutter</li>
+<h4>Web Development</h4>
+<li>React.js</li>
+<li>Next.js</li>
+<li>HTML,CSS,ES6</li>
 </div>
 
 </div>
