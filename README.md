@@ -11,7 +11,7 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 <li>🌱 I’m currently learning a lot of management.</li>
 </p>
 
-
+<!--
 <h3 class="head">My Skillset</h3>
 <div class="container">
 
@@ -35,7 +35,7 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 </div>
 
 </div>
-
+-->
 <h5 class="figma">Figma Handle: <a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
 </body>
 </html>
