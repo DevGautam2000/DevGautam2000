@@ -23,16 +23,16 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 <li>HTML,CSS,ES6</li>
 </div>
 <div class="card">
-<h4>Web Development</h4>
-<li>React.js</li>
-<li>Next.js</li>
-<li>HTML,CSS,ES6</li>
+<h4>Web Scraping</h4>
+<li>bs4</li>
+<li>Scrapy</li>
+<li>selenium</li>
 </div>
 <div class="card">
-<h4>Web Development</h4>
-<li>React.js</li>
-<li>Next.js</li>
-<li>HTML,CSS,ES6</li>
+<h4>Mobile Development</h4>
+<li>Native(Kotlin/Java)</li>
+<li>React Native</li>
+<li>Flutter</li>
 </div>
 
 </div>
