@@ -7,7 +7,7 @@
 <li>👀 I’m interested in anything that is interesting.</li>
 <li>🌱 I’m currently learning a lot of management.</li>
 <li>📫 How to reach me? But wait, why do you want to reach me?
-Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
+Anyway mail: <a mailto="devgautam1231@gmail.com">devgautam1231@gmail.com</a>  </li>
 <li>🌱 I’m currently learning a lot of management.</li>
 </p>
 
