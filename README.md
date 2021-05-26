@@ -13,7 +13,7 @@ Anyway mail: <span id="mail">devgautam1231@gmail.com</span>  </li>
 </p>
 
 
-<em class="head">My Skillset</em>
+<h3 class="head">My Skillset</h3>
 <div class="container">
 
 <div class="card">
