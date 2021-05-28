@@ -1,7 +1,6 @@
 
 <html>
 <body>
-
 <p class="info">
 <li>👋 Hi, I’m Gautam!</li>
 <li>👀 I’m interested in React,Java,Python,...</li>
