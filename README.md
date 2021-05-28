@@ -4,8 +4,8 @@
 
 <p class="info">
 <li>👋 Hi, I’m Gautam!</li>
-<li>👀 I’m interested in anything that is interesting.</li>
-<li>🌱 I’m currently learning a lot of management.</li>
+<li>👀 I’m interested in React,Java,Python,...</li>
+<li>🌱 I’m currently learning Next & Flutter.</li>
 <li>📫 How to reach me? But wait, why do you want to reach me?
 Anyway mail: <a href="mailto:devgautam1231@gmail.com">devgautam1231@gmail.com</a>  </li>
 <li>🌱 I’m currently learning a lot of management.</li>
