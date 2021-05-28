@@ -7,7 +7,7 @@
 <li>👀 I’m interested in React,Java,Python,...</li>
 <li>🌱 I’m currently learning Next & Flutter.</li>
 <li>📫 How to reach me? Mail: <a href="mailto:devgautam1231@gmail.com">devgautam1231@gmail.com</a>  </li>
-<li>🌱 I’m currently learning a lot of management.</li>
+
 </p>
 
 <!--
