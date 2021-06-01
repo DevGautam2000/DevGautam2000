@@ -1,43 +1,16 @@
 
-<html>
-<body>
-<p class="info">
-<li>👋 Hi, I’m Gautam!</li>
-<li>👀 I’m interested in React,Java,Python,...</li>
-<li>🌱 I’m currently learning Next & Flutter.</li>
-<li>📫 How to reach me? Mail: <a href="mailto:devgautam1231@gmail.com">devgautam1231@gmail.com</a>  </li>
+- 👋 Hi, I’m Gautam!
+- 👀 I’m interested in React,Java,Python,...
+- 🌱 I’m currently learning Next & Flutter.
+- 📫 How to reach me? Mail: *[devgautam1231@gmail.com](mailto:devgautam1231@gmail.com)*
 
-</p>
 
-<!--
-<h3 class="head">My Skillset</h3>
-<div class="container">
+Figma Handle: 
+*[figma.com/@devgautam](https://www.figma.com/@devgautam)*.
 
-<div class="card">
-<h4>Web Development</h4>
-<li>React.js</li>
-<li>Next.js</li>
-<li>HTML,CSS,ES6</li>
-</div>
-<div class="card">
-<h4>Web Scraping</h4>
-<li>Scrapy</li>
-<li>Selenium</li>
-<li>bs4</li>
-</div>
-<div class="card">
-<h4>Mobile Development</h4>
-<li>Native with Kotlin/Java</li>
-<li>React Native</li>
-<li>Flutter</li>
-</div>
+Portfolio Website: 
+*[resume-1231.vercel.app](https://resume-1231.vercel.app)*.
 
-</div>
--->
-<h5 class="figma">Figma Handle: <a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
-<h5 class="figma">Portfolio Website: <a href="https://resume-1231.vercel.app">resume-1231.vercel.app</a></h5>
-</body>
-</html>
 <!---
 DevGautam2000/DevGautam2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
