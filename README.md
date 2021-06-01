@@ -35,7 +35,7 @@
 </div>
 -->
 <h5 class="figma">Figma Handle: <a href="https://www.figma.com/@devgautam">figma.com/@devgautam</a></h5>
-<h5 class="figma">Portfolio: <a href="https://resume-1231.vercel.app">resume-1231.vercel.app</a></h5>
+<h5 class="figma">Portfolio Website: <a href="https://resume-1231.vercel.app">resume-1231.vercel.app</a></h5>
 </body>
 </html>
 <!---
