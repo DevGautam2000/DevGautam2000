@@ -108,7 +108,7 @@ Web Scraping / REST Api
 <tr>
   <td><a href="mailto:devgautam@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/mail.svg" align="center" height="30" alt="mail"  /></a></td>
   <td><a href="https://www.linkedin.com/in/gautam-chandra-saha-896735205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/linked-in.svg" align="center" height="30" alt="linkedin"  /></a></td>
-  <td><a href="https://www.linkedin.com/in/gautam-chandra-saha-896735205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/github.svg" align="center" height="30" alt="github"  /></a></td>
+  <td><a href="https://github.com/DevGautam2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/github.svg" align="center" height="30" alt="github"  /></a></td>
   <td><a href="https://www.figma.com/@devgautam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/figma_handle.svg" align="center" height="30" alt="figma"  /></a></td>
   <td><a href="https://www.instagram.com/gautamcsaha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/instagram.svg" align="center" height="30" alt="instagram"  /></a></td>  
 </tr>
