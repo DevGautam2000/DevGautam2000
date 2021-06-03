@@ -1,15 +1,124 @@
 
-- 👋 Hi, I’m Gautam!
-- 👀 I’m interested in React,Java,Python,...
-- 🌱 I’m currently learning Next & Flutter.
-- 📫 How to reach me? Mail: *[devgautam1231@gmail.com](mailto:devgautam1231@gmail.com)*
+<br>
+<br>
+  
+
+## <div align="center">I'm Gautam, Web/Mobile developer </div>  
+<br>  
 
 
-Figma Handle: 
-*[figma.com/@devgautam](https://www.figma.com/@devgautam)*.
+-  👀 I’m interested in React,Java,Python,...  
+  
 
-Portfolio Website: 
-*[resume-1231.vercel.app](https://resume-1231.vercel.app)*.
+- 🌱 I’m currently learning Next.js, Flutter  
+  
+
+- ⚡ Fun fact: *'python allows destructuring of variables'*  
+  
+- <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/file-solid.svg" align="center" height="15"  />&nbsp;&nbsp;*[Resume here](https://resume-1231.vercel.app)*
+
+
+
+<br/>  
+
+
+## My Tools And Frameworks  
+<table align="center" ><tr ><td valign="top" width="33%">
+
+
+<h4 align="center">
+Web Development 
+</h4>
+<hr>
+<div align="center">  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/css3.svg" alt="css3" height="50" />   
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/html5.svg" alt="html5" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/javascript.svg" alt="javascript" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/react.svg" alt="react" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/golang.svg" alt="golang" height="50" />   
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/mongodb.svg" alt="mongodb" height="50" />
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/git.svg" alt="git" height="50" />   
+</div>
+
+</td><td valign="top" width="33%">
+
+<h4 align="center">
+Mobile Development 
+</h4>
+<hr>
+  
+<div align="center">  
+
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/android-os.svg" alt="android" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/java.svg" alt="java" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/kotlin.svg" alt="kotlin" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/flutter.svg" alt="flutter" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/dart.svg" alt="dart" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/react-native.svg" alt="react-native" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/javascript.svg" alt="JavaScript" height="50" />  
+ 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/sqlite.svg" alt="sqlite" height="50" />  
+
+  
+</div>
+
+</td>
+  
+  
+  <td valign="top" width="33%">
+
+<h4 align="center">
+Web Scraping / REST Api  
+</h4>
+<hr>
+
+<div align="center">  
+
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/python.svg" alt="python" height="50" />  
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/selenium.svg" alt="selenium" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/flask.svg" alt="flask" height="50" /> 
+<img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/postman.svg" alt="postman" height="50" /> 
+
+  
+</div>
+</td>  
+</tr>
+</table>  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devgautam2000&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=devgautam2000&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+##
+<br>
+<table align="center">
+<tr>
+  <td><a href="mailto:devgautam@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/mail.svg" align="center" height="30" alt="mail"  /></a></td>
+  <td><a href="https://www.linkedin.com/in/gautam-chandra-saha-896735205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/linked-in.svg" align="center" height="30" alt="linkedin"  /></a></td>
+  <td><a href="https://www.linkedin.com/in/gautam-chandra-saha-896735205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/github.svg" align="center" height="30" alt="github"  /></a></td>
+  <td><a href="https://www.instagram.com/gautamcsaha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/instagram.svg" align="center" height="30" alt="instagram"  /></a></td>  
+</tr>
+
+</table>
+
+----
+
+
 
 <!---
 DevGautam2000/DevGautam2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
