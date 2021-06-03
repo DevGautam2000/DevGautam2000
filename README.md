@@ -75,6 +75,7 @@ Web Scraping / REST Api
 <div align="center">  
 
 <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/python.svg" alt="python" height="50" />  
+  <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/java.svg" alt="java" height="50" /> 
 <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/selenium.svg" alt="selenium" height="50" /> 
 <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/flask.svg" alt="flask" height="50" /> 
 <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/postman.svg" alt="postman" height="50" /> 
