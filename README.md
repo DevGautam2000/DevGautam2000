@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact: *'python allows destructuring of variables'*  
   
-- <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/file-solid.svg" align="center" height="15px" width="15px" />&nbsp;&nbsp;*[Resume here](https://resume-1231.vercel.app)*
+- <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/file-solid.svg" align="center" height="15px" width="15px" />&nbsp;&nbsp;
+<a href="https://resume-1231.vercel.app" target="_blank" rel="noreferrer">Resume here</a>
 
 
 
