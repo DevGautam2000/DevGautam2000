@@ -90,13 +90,10 @@ Web Scraping / REST Api
 <br/>  
 
 ## Github Stats  
-<table align="center" border="none">
-<tr>
-  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgautam2000&layout=compact&count_private=true" > 
-  </td><td><img src="https://github-readme-stats.vercel.app/api/?username=devgautam2000&count_private=true&show_icons=true"> </td>
-</tr>
-</table>
-
+<div align="center">
+ <span  align="center"><a href="https://github.com/devgautam2000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devgautam2000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devgautam2000 github stats" /></a> <span/>
+ <span  align="center"><a href="https://github.com/devgautam2000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgautam2000&layout=compact&theme=buefy&hide_border=true" /></a> </span>
+</div>
 <br/>  
 
 <div align="center">
