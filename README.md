@@ -89,24 +89,22 @@ Web Scraping / REST Api
 
 <br/>  
 
-## Github Stats  
-<div align="center">
- <span  align="center"><a href="https://github.com/devgautam2000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devgautam2000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devgautam2000 github stats" /></a> <span/>
- <span  align="center"><a href="https://github.com/devgautam2000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgautam2000&layout=compact&theme=buefy&hide_border=true" /></a> </span>
-</div>
+## Github Stats   
+<table align="center">
+<tr><td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devgautam2000&show_icons=true&count_private=true&hide_border=true" align="center" /></p></td> 
+<td><p align="center"><a href="https://github.com/devgautam2000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgautam2000&layout=compact&hide_border=true" /></a></p></td>
+  </tr>
+ </table>
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=devgautam2000&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
 
-<div align="center"></div>
+
 <br />
 
-##
 <br>
 <table align="center">
 <tr>
