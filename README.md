@@ -1,7 +1,7 @@
 
 <br>
 
-## <div align="center">Hi, I'm Gautam, Web/Mobile developer </div>  
+## <div align="center">Hi, I'm Gautam, Web/App developer </div>  
 <br>  
 
 
