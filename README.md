@@ -14,7 +14,7 @@
 - ⚡ Fun fact: *'python allows destructuring of variables'*  
   
 - <img src="https://raw.githubusercontent.com/DevGautam2000/DevGautam2000/main/assets/file-solid.svg" align="center" height="15px" width="15px" />&nbsp;&nbsp;
-*[Resume here](https://inginer.tech)*
+*[Resume here](https://resume-devgautam2000.vercel.app)*
 
 
 
